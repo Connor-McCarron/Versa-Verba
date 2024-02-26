@@ -10,5 +10,5 @@ The VersaVerba project endeavours to create an AI-powered Translation Web Servic
 ### Architecture Diagram
 ![image](https://github.com/Connor-McCarron/Versa-Verba/assets/78273828/3a917827-6a91-4a17-8d31-062f56e856d3)
 
-
-
+### Web Interface
+![image](https://github.com/Connor-McCarron/Versa-Verba/assets/78273828/e0fc09b9-fd35-49e3-a05a-459c6f23254c)
